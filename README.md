@@ -1,11 +1,14 @@
-### A Simple Webpack4 React + SCSS template
+# F2E Challenge - Comic Viewer
 
-#### Commands:
-- `npm start`: Start a hot-moudule-replacement environment wiith JS & SCSS
-- `npm build`: Build release files.  
+> Demo Site: https://cxc421.github.io/f2e-2018-validation/
 
-#### To-Do:
-- js dynamic import
-- express HMR setup
+## Development Tags
 
+*   React, React-Router
+*   Webpack
+*   ES6
+*   SASS
 
+## ToDo:
+
+- Step 3/4/5
